@@ -1,3 +1,3 @@
-# peer graded assignment - coursera
+# Peer Graded Assignment - coursera- vinoth rajagopal
 
-COurser/IBM Appplied Data Science Capstone project 
+Coursera / IBM - Appplied Data Science Capstone project 
